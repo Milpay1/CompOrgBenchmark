@@ -25,5 +25,16 @@ void RunCalculations() {
             result = 1.0 / 1.0;
         }
     }
-    
+
+}
+
+int main(){
+
+    auto start = high_resolution_clock::now();
+
+    RunCalculations();
+
+    auto stop = high_resolution_clock::now();
+
+    auto runTime = duration_cast<milliseconds>(stop-start);
 }
