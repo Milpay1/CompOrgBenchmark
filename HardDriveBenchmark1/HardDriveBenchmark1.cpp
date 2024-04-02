@@ -21,6 +21,8 @@ void HardDriveBenchmark1(char * txt){
     for(int i = 0; i< loop; i++){
         file.read(txt, 100);
     }
+
+    file.close();
 }
 
 int main(){
