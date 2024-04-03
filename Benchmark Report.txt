@@ -1,0 +1,41 @@
+﻿Computer Specifications:
+* CPU:
+   * Brand: Intel
+   * Model: Intel i5
+   * Cores:2
+   * Base Clock: 2.90 GHz
+* 8 GB 1600 MHz Memory
+* DDR3 :
+* Hard Drive: SSD
+   * Not available on Mac
+Integer Benchmark:
+  
+
+Float Benchmark:
+  
+
+Hard Drive 1:
+  
+
+Hard Drive 2:
+  
+
+Memory Benchmark:
+  
+
+
+
+
+
+Integer
+	Float
+	HD1
+	HD2
+	Memory
+	Geo Mean
+	19m 47.483s
+	16m 7.469s
+	5.304s
+	6.508s
+	1m 49.362s
+	7m 35.225s
